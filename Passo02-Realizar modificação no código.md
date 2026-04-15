@@ -58,4 +58,9 @@ $ git push -u origin [nome-do-branch-em-uso]
 
 ```
 
-A partir deste momento o git envia seus arquivos alterados para o repositório remoto no GITHUB, organizados sob a identificação de seu _branch_.
+A partir deste momento o git envia seus arquivos alterados para o repositório remoto no GITHUB, organizados sob a identificação de seu _branch_, como ilustrado abaixo.
+
+![alt text](Passo02-GitPull-ViewBranch.png)
+
+
+O próximo passo é 
