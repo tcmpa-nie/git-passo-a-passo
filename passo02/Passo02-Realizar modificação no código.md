@@ -66,3 +66,8 @@ A partir deste momento o git envia seus arquivos alterados para o repositório r
 O próximo passo é criar um _"**pull request**"_
 
 ![alt text](Passo02-GitPullRequest01.png)
+
+
+
+
+[ ir para Passo 03](../passo03/Passo03-PullRequest_MERGE.md)

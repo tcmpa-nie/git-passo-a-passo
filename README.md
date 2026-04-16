@@ -11,3 +11,4 @@ O objetivo é que em um curto espaço de tempo você possa usar estes comandos p
 Este é o passo a passo que pode ser usado em um ciclo de desenvolvimento, acompanhando do início até o fim de um _sprint_, onde pretende-se entregar uma nova versão do software que está sendo construído.
 - [Passo 01 - Clonar Repositório de trabalho](<passo01/Passo01-Clonar repositório de trabalho.md>)
 - [Passo 02 - Ciclo de implementação de funcionalidades - incluir, alterar, deletar arquivos](<passo02/Passo02-Realizar modificação no código.md>)
+- [Passo 03 - Pull Request & Merge de alterações](<passo03/Passo03-PullRequest_MERGE.md>)
